@@ -1,13 +1,10 @@
 Bank API Service Testing using Rest Assured
 
 # Prerequisites
-Java
-
-Eclipse
-
-Maven (if using eclipse, install Maven Integration for Eclipse)
-
-TestNG (if using eclipse, install TestNG Integration for Eclipse)
+- Java
+- Eclipse or any other Java IDE
+- Maven (if using eclipse, install Maven Integration for Eclipse)
+- TestNG (if using eclipse, install TestNG Integration for Eclipse)
 
 
 # Getting Started
